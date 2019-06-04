@@ -1,0 +1,3 @@
+Visu vidurkis: 1
+Negaus finansavimo: 2
+Gaus stipendija: 0
